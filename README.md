@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Dmitry (ItsFill) 👋
 
-<!--
-**ItsFill/ItsFill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer passionate about exploring new technologies and turning ideas into working code. Every day, I focus on learning different stacks, improving my skills, and growing in the IT industry.
 
-Here are some ideas to get you started:
+#### 🛠 Tech Stack & Focus Areas
+* **Languages:** C++ (Core), C# (Core)
+* **System & Network:** System Programming, Network Programming
+* **Data Access:** Entity Framework, Dapper, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Current Goals
+* Preparing for an **Ausbildung** as a Software Developer (*Fachinformatiker für Anwendungsentwicklung*) in Germany
+* Deepening my knowledge of C++ and C# internals
+* Exploring asynchronous programming and multithreading
+
+#### 📫 How to reach me
+* **Email:** dmks10312@gmail.com
